@@ -40,7 +40,7 @@ a:hover{
 }
 .container{
     
-    background-image: url('images/background-image.jpg');
+    background-image: url('background-image.jpg');
     max-width: 1300px;
     min-height: 800px;
     background-size: cover;
